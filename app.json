@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-news-app-starter",
-    "slug": "expo-news-app-starter",
+    "name": "expo-news",
+    "slug": "expo-news",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
